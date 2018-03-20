@@ -1,0 +1,108 @@
+
+ - Sales for Hackers (Because Tyler Hates this Title)
+ - Agenda
+   - Type of sales I am dealing wiht
+   - What is sales?
+   - Closing and Prospecting
+   - Tools
+ - Type of sales I am dealing with
+   - Services. opsZero (Health, Financial, Enterprise companies that store sensitive data who need security, reliablility, and be able to ship fast)
+   - High value, low volume, services. with inertia in the organization against it.
+   - What I am not providing, how to do product sales for low value, high volume.
+     - Thought I believe the process would be the same.
+ - What is sales?
+   - Sales is problem solving with the objective of getting people to pay you money to solve that problem.
+   - What sales is not
+        - It is not making people buy stuff. Most people wont buy from you. Period.
+          - Of the 20% who respond to my sales inquriries maybe 4% convert.
+          - Of the 20% who respond to my sales prospecting maybe 1% convert.
+
+ - What are you selling?
+   - Really dial it in.
+   - Doing too many things will eat up your time and energy. If you can standardize then do it.
+
+ - Two parts of sales
+   - Prospecting
+   - Closing
+   - Prospecting is the process of talking to people to sell them your "vision".
+     - What is the world you are selling?
+     - What is an existing client
+   - Closing
+     - Is to make that prospect into a customer.
+
+ - Closing
+   - Lets start with the easy part. Closing.
+   - There is huge intertia for people to not do anything.
+     - Not doing anything is safe, you are the unknown.
+     - Don't go in there with the assumption that you own the place, and you get a seat at the table. You have to earn that seat. And even then play hard to get, while delivering the value they seek.
+   - Simplify pricing. Don't add random pricing and points where people have to think. Even if you are doing services keep things simple.
+     - We basically have two price points.
+     - Likewise, you will not be good at everything so the services you provide have to be specific. Don't try to be generic. No one wants to get plumbing services from Starbucks.
+     - Being specialized is to your benefit. Creates a sense of trust and you are the expert.
+   - Go to a meeting prepared
+     - You have to go into a meeting PREPARED
+     - The best method I found is the Challenger Sales
+     - Dont be friends with your prospect
+       - Don't try to woo them to you.
+     - Like a good partner in life, a good vendor is also someone that challenges you. Makes you think about your assumptions.
+       - If you keep telling them they are great, why do they need you?
+       - Challenge them into needing your solution.
+   - Read the following books:
+     - Challenger sales
+     - Never Split the difference
+
+ - Prospecting
+   - The most boring part of sales and the most important.
+   - Sales prospecting and inbound marketing lead people into the funnel where you can actively close them.
+     - Again this is for services.
+   - A lot of this process can be outsourced because it is just generally low value work.
+     - Upwork is a great place to find assistants to do so.
+     - Also you need to keep a CRM to do this. Excel and Google Sheets doesnt work. Use Pipedrive. It is cheap and great.
+   - Prospecting works like this:
+     - Figure out who the buyer is and reach out to them with the pain that they have that you are solving.
+     - I am not going to reach a financial company the same way i reach a health care company.
+       - They may be similar in a lot of ways but they buyers concerns are much different.
+   - System
+     - You need a system to do prospecting otherwise you won't do it at all.
+     - A weekly system where you reach out to 5 prospects of different personas. Seriously. Just start with 5. Even that if you've never done it will be nervewreacking.
+     - A way of reaching out to prospects.
+       - Use assistants or what not to do this work.
+       - It takes a lot of time to do research and data entry.
+         - But at the end of the day make sure you are the one that makes the call on who you are reaching out to, at the early stage.
+       - Our system
+         - 1. Have all entities go into our CRM.
+         - 2. Have assistant go through those and enter information and change status
+         - 3. I decide if those companies are who we should target. Persona / Anti-Persona and method of reaching out.
+         - 4. Reach Out
+
+   - A lot of it comes down to defining a buyer matrix.
+     - For my business I focus on 3 different types of companies for my outreach because I see myself fitting in with that group
+       - Health, Finance, Enterprise
+     - Define a buyer matrix for each of them.
+     - Each has a different concern even if they are the same.
+     - Figure out the best way to reach them.
+     - 80/20. Really hone in on the way that the persona looks for. If you can figure out the 20% that gives 80% of the value then that is great.
+
+   - Just as important. Define an anti-persona.
+     - These kinds of clients take up all your time.
+     - They suck to work with
+     - They prevent you from doing what you want to do.
+     - There is no reward with a referral or otherwise later on. So honestly a non sales benefit.
+       - Say you are not a fit. Most people want you to sell them. If you say hey we likely are not going to work well people are taken aback.
+
+    - Methods for reaching outreach
+      - Sales
+        - Drip Campaigns
+        - LinkedIn
+        - Referrals
+      - Marketing
+        - AdWords
+        - Content Marketing
+
+ - Books
+   - Challenger Sale
+   - SNAP Selling
+   - SPIN Selling
+   - Fanatical Prospecting
+   - SalesEQ
+
