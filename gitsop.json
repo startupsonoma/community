@@ -1,0 +1,56 @@
+[
+    {
+        "cron": "* * * * * ",
+        "assignee": "abhiyerra",
+        "files": [
+            "sops/DAILY.md"
+        ],
+        "outputDir": "sops/output",
+        "title": "Daily Todo",
+        "inputs": {
+        }
+    },
+    {
+        "cron": "0 0 * * 0 ",
+        "assignee": "abhiyerra",
+        "files": [
+            "sops/WEEKLY.md"
+        ],
+        "outputDir": "sops/output",
+        "title": "Weekly Todo",
+        "inputs": {
+        }
+    },
+    {
+        "cron": "0 0 1 * 0 ",
+        "assignee": "abhiyerra",
+        "files": [
+            "sops/MONTHLY.md"
+        ],
+        "outputDir": "sops/output",
+        "title": "Monthly Todo",
+        "inputs": {
+        }
+    },
+    {
+        "cron": "0 0 1 */3 0 ",
+        "assignee": "abhiyerra",
+        "files": [
+            "sops/QUARTERLY.md"
+        ],
+        "outputDir": "sops/output",
+        "title": "Quarterly Todo",
+        "inputs": {
+        }
+    },
+    {
+        "assignee": "abhiyerra",
+        "files": [
+            "sops/MEETUP.md"
+        ],
+        "outputDir": "sops/output",
+        "title": "Meetup Todo",
+        "inputs": {
+        }
+    }
+]
