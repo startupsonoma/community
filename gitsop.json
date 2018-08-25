@@ -12,31 +12,27 @@
         "assignee": "abhiyerra",
         "files": [
             "sops/WEEKLY.md"
-        ],
-        "outputDir": "sops/output"
+        ]
     },
     "Monthly Todo": {
         "cron": "0 0 1 * 0 ",
         "assignee": "abhiyerra",
         "files": [
             "sops/MONTHLY.md"
-        ],
-        "outputDir": "sops/output"
+        ]
     },
     "Quarterly Todo": {
         "cron": "0 0 1 */3 0 ",
         "assignee": "abhiyerra",
         "files": [
             "sops/QUARTERLY.md"
-        ],
-        "outputDir": "sops/output"
+        ]
     },
     "Meetup Todo": {
         "assignee": "abhiyerra",
         "files": [
             "sops/MEETUP_TASK.md"
         ],
-        "outputDir": "sops/output",
         "inputs": {
             "MeetupName": {}
         }
