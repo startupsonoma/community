@@ -2,8 +2,6 @@
 
 ## Goals
 
-{{.Goals}}
-
 ## Value Delivery
 
  - [ ] Sprint Planning
