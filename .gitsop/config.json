@@ -1,35 +1,35 @@
 {
     "Daily Todo": {
-        "cron": "0 0 * * * ",
-        "assignee": "abhiyerra",
+        "cron":"0 0 0 * * *",
+        "assignee":"abhiyerra",
         "files": [
             "sops/DAILY.md"
         ],
-        "outputDir": "sops/output"
+        "outputDir":"sops/output"
     },
     "Weekly Todo": {
-        "cron": "0 0 * * 0 ",
-        "assignee": "abhiyerra",
+        "cron":"0 0 0 * * 0",
+        "assignee":"abhiyerra",
         "files": [
             "sops/WEEKLY.md"
         ]
     },
     "Monthly Todo": {
-        "cron": "0 0 1 * 0 ",
-        "assignee": "abhiyerra",
+        "cron":"0 0 0 1 * 0",
+        "assignee":"abhiyerra",
         "files": [
             "sops/MONTHLY.md"
         ]
     },
     "Quarterly Todo": {
-        "cron": "0 0 1 */3 0 ",
-        "assignee": "abhiyerra",
+        "cron":"0 0 0 1 */3 0",
+        "assignee":"abhiyerra",
         "files": [
             "sops/QUARTERLY.md"
         ]
     },
     "Meetup Todo": {
-        "assignee": "abhiyerra",
+        "assignee":"abhiyerra",
         "files": [
             "sops/MEETUP_TASK.md"
         ],
