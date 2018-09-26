@@ -29,8 +29,9 @@ https://trello.com/b/JzOSb2w9/tasks
 
 ## Cleaning Walkthrough
 
-Write the following of anything that is dirty. Make notes of this in Trello
-so we can get through them.
+Write the following of anything that is dirty. Make notes of this in
+[Trello Cleaning Task](https://trello.com/c/E9aTbyo8/272-small-cleaning-tasks) so we
+can get through them.
 
 - [ ] Trim
 - [ ] Food Levels
