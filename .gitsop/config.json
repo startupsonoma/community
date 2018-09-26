@@ -5,28 +5,31 @@
         "files": [
             "sops/DAILY.md"
         ],
-        "outputDir":"sops/output"
+        "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Weekly Todo": {
         "cron":"0 0 0 * * 0",
         "assignee":"abhiyerra",
         "files": [
             "sops/WEEKLY.md"
-        ]
+        ],
+        "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Monthly Todo": {
         "cron":"0 0 0 1 * 0",
         "assignee":"abhiyerra",
         "files": [
             "sops/MONTHLY.md"
-        ]
+        ],
+        "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Quarterly Todo": {
         "cron":"0 0 0 1 */3 0",
         "assignee":"abhiyerra",
         "files": [
             "sops/QUARTERLY.md"
-        ]
+        ],
+        "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Meetup Todo": {
         "assignee":"abhiyerra",
