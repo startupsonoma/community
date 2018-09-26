@@ -1,4 +1,4 @@
-# Weekly
+# Sprint Planning
 
 ## Goals
 
@@ -19,15 +19,9 @@
 
  # Wiki
 
- https://docs.google.com/document/d/1-bB3n1rYfi-DHuGJwow4-0e_t17NyU4AaxY2fijKiWk/edit
+https://docs.google.com/document/d/1-bB3n1rYfi-DHuGJwow4-0e_t17NyU4AaxY2fijKiWk/edit
 
   - [ ] Update
-
-# Building
-
- - [ ] Water Plants
- - [ ] Upkeep
-
 
 # Value Creation
 
@@ -35,15 +29,15 @@
 
 https://docs.google.com/spreadsheets/d/1TtOMf_4j8KNgorIh520gEEK8at_rmo8w3qU2PsSJMPE/edit#gid=950725242
 
- - [ ] Jobs Created
- Businesses Created
- Partnerships
- City
- Internships
- Diversity
- Finance
- Emails
- Website
+- [ ] Jobs Created
+- [ ] Businesses Created
+- [ ] Partnerships
+- [ ] City
+- [ ] Internships
+- [ ] Diversity
+- [ ] Finance
+- [ ] Emails
+- [ ] Website
 
 ## Startups
 
@@ -96,8 +90,6 @@ https://docs.google.com/spreadsheets/d/1TtOMf_4j8KNgorIh520gEEK8at_rmo8w3qU2PsSJ
 
 ## Finance
 
-- [ ] Quickbooks
-- [ ] Reimbursements
-    https://docs.google.com/spreadsheets/d/1tXlz5QezqIbXANZpSG5x6mbWioD0Lo9k5cEd8CyZMLQ/edit#gid=0
+- [ ] [Reimbursements](https://docs.google.com/spreadsheets/d/1tXlz5QezqIbXANZpSG5x6mbWioD0Lo9k5cEd8CyZMLQ/edit#gid=0)
 - [ ] Budget Planning
 - [ ] Receipts
