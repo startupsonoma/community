@@ -17,15 +17,15 @@
     - [ ] Zapier
     - [ ] Slack
 
- # Wiki
+### Wiki
 
 https://docs.google.com/document/d/1-bB3n1rYfi-DHuGJwow4-0e_t17NyU4AaxY2fijKiWk/edit
 
   - [ ] Update
 
-# Value Creation
+## Value Creation
 
-## Metrics
+### Metrics
 
 https://docs.google.com/spreadsheets/d/1TtOMf_4j8KNgorIh520gEEK8at_rmo8w3qU2PsSJMPE/edit#gid=950725242
 
@@ -39,54 +39,23 @@ https://docs.google.com/spreadsheets/d/1TtOMf_4j8KNgorIh520gEEK8at_rmo8w3qU2PsSJ
 - [ ] Emails
 - [ ] Website
 
-## Startups
+### Startups
 
-## Internships
+### Internships
 
-## Mentor Connections
+### Mentor Connections
 
-## Volunteers
+### Volunteers
 
-## Contributor Engagement
+### Contributor Engagement
 
-# Sales
+## Sales
 
  - [ ] Members
  - [ ] Mentors
  - [ ] Sponsors
  - [ ] Government
  - [ ] Press
-
-
-## Marketing / Events
-
- - [ ] Happy Hour
-
-## Marketing / Diversity
-
- - [ ] Women
- - [ ] Hispanic
- - [ ] College
- - [ ] High School
-
-## Marketing
-
-- [ ] Export Pipedrive Contacts to MailChimp
-- [ ] AngelList
-   https://angel.co/companies?locations[]=2202-Santa+Rosa&locations[]=400324-Sonoma+County,+CA
-   https://airtable.com/tblkppJjsOjuCqS95/viwxOJHDi4VC9hrlf
-- [ ] AngelList / Status
-   https://airtable.com/tblkppJjsOjuCqS95/viwnXrLJl9Ftcy7eD
-- [ ] Meetup.com
-    https://airtable.com/tbll3KdDbs1zT2FD6/viwa8B4AIdcdHVZLE
-- [ ] LinkedIn
-- [ ] Radio
-- [ ] Drip Campaign
-- [ ] AdWords
-- [ ] Website
-- [ ] Job Board
-- [ ] Slack
-- [ ] Press
 
 ## Finance
 

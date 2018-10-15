@@ -3,7 +3,7 @@
         "cron":"0 0 0 * * 1-5",
         "assignee":"abhiyerra",
         "files": [
-            "sops/DAILY.md"
+            "Docs/DAILY.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
@@ -11,7 +11,7 @@
         "cron":"0 0 0 * * 0",
         "assignee":"abhiyerra",
         "files": [
-            "sops/WEEKLY.md"
+            "Docs/WEEKLY.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
@@ -19,7 +19,7 @@
         "cron":"0 0 0 1 * 0",
         "assignee":"abhiyerra",
         "files": [
-            "sops/MONTHLY.md"
+            "Docs/MONTHLY.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
@@ -27,14 +27,14 @@
         "cron":"0 0 0 1 */3 0",
         "assignee":"abhiyerra",
         "files": [
-            "sops/QUARTERLY.md"
+            "Docs/QUARTERLY.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Meetup Todo": {
         "assignee":"abhiyerra",
         "files": [
-            "sops/MEETUP_TASK.md"
+            "Docs/MEETUP_TASK.md"
         ],
         "inputs": {
             "MeetupName": {}
