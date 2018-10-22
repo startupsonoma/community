@@ -10,8 +10,10 @@
     - [ ] Newsletter
  - [ ] Mentors
     - [ ] Newsletter
- - [ ] Contributor
+ - [ ] Members
  - [ ] Government
+ - [ ] Service Providers
+    - Bring different service providers together. Accountants, lawyers, etc.
 
 ### Sales / Outreach
 
