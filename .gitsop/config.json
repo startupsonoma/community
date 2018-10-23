@@ -1,6 +1,6 @@
 {
     "Daily Todo": {
-        "cron":"0 0 0 * * 1-5",
+        "cron":"0 0 0 * * 1-4",
         "assignee":"abhiyerra",
         "files": [
             "Docs/DAILY.md"
@@ -8,7 +8,7 @@
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Daily Sales Prospecting": {
-        "cron":"0 0 0 * * 1-5",
+        "cron":"0 0 0 * * 1-4",
         "assignee":"abhiyerra",
         "files": [
             "Docs/DAILY.md"
@@ -16,7 +16,7 @@
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
     "Daily Cleaning": {
-        "cron":"0 0 0 * * 1-5",
+        "cron":"0 0 0 * * 1-4",
         "assignee":"abhiyerra",
         "files": [
             "Docs/DAILY.md"
