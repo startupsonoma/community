@@ -11,7 +11,7 @@
         "cron":"0 0 0 * * 1-4",
         "assignee":"abhiyerra",
         "files": [
-            "Docs/DAILY.md"
+            "Docs/DAILY_SALES_PROSPECTING.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
@@ -19,7 +19,7 @@
         "cron":"0 0 0 * * 1-4",
         "assignee":"abhiyerra",
         "files": [
-            "Docs/DAILY.md"
+            "Docs/DAILY_CLEANING.md"
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
