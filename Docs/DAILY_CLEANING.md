@@ -15,18 +15,29 @@ can get through them.
 - [ ] Walls
 - [ ] Lights
 - [ ] Printers
+- [ ] Front
 - [ ] Side
     - [ ] Plants growing
     - [ ] Unclean
+- [ ] Remove stuff from desks
+
+{{ if eq weekday "Monday" }}
+
+- [ ] Things to buy
+- [ ] Things to automate
+
+{{ else if eq weekday "Tuesday" }}
+
+- [ ] Trash
+
+{{ else if eq weekday "Wednesday" }}
+
+- [ ] Sweep
+- [ ] Mop
 
 {{ else if eq weekday "Thursday" }}
 
- - [ ] Water Plants
+- [ ] Water Plants
+- [ ] Bills
 
 {{ end }}
-
-{{ if eq weekday "Wednesday" }}
-
-{{ end }}
-
-{{ if eq weekday "Monday" }}
