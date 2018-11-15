@@ -31,6 +31,14 @@
         ],
         "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
     },
+    "Weekly Mentorship": {
+        "cron":"0 0 0 * * 0",
+        "assignee":"abhiyerra",
+        "files": [
+            "Docs/WEEKLY_MENTORSHIP.md"
+        ],
+        "webhook":"https://hooks.zapier.com/hooks/catch/1350465/lumy9o/"
+    },
     "Monthly Todo": {
         "cron":"0 0 0 1 * 0",
         "assignee":"abhiyerra",
